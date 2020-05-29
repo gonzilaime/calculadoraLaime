@@ -1,0 +1,20 @@
+﻿body {
+}
+
+#calculadora{
+    width: max-content;
+    margin:auto;
+}
+
+#span{
+    margin-left: 380px;
+}
+
+#boton {
+    margin-left:66px;
+}
+
+label{
+    text-align:center;
+}
+
