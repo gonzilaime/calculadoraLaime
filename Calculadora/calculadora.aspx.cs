@@ -21,7 +21,7 @@ namespace Calculadora
 
         protected void btnTotal_Click(object sender, EventArgs e)
         {
-            if(txtNum1.Text != "" || txtNum2.Text != "") { 
+            if(txtNum1.Text != "" && txtNum2.Text != "") { 
                 double num1 = int.Parse(txtNum1.Text);
                 double num2 = int.Parse(txtNum2.Text);
 
